@@ -1,0 +1,15 @@
+.box1{
+    text-align: center;
+    justify-content: center;
+    margin-top: 200px;
+    width: 500px;
+    border: 2px solid rgb(55, 241, 126);    
+   
+    border-radius: 20px;
+}
+.container-fluied{
+    text-align: center;
+    margin-left: 500px;
+    box-sizing: border-box;
+    box-shadow: 20px;
+}
